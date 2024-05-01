@@ -1,6 +1,5 @@
 # Desenvolve-Python-Basico
--👋 Hi, I’m @tiago-orozimbo
-
+-👋Hi, I’m @tiago-orozimbo
 Projeto Desenvolve - Itabira
-Curso de Introdução a Programação Web
+Curso de Programação básica com Python
 PDITA046
