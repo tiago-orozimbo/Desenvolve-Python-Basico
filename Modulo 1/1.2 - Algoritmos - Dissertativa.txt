@@ -1,0 +1,9 @@
+Truque da tabuada do 9
+1- Leia e armazene o número irá multiplicar o número 9;
+# Realize a operação para o primeiro digito;
+2- Aplique a operação de subitração entre o número escolhido e o número 1, multiplique  por 10 e amrmazene o resultado;
+#- Realize a operação para o segundo digito;
+3- Aplique a operação de subitração entre o número 10 e o número escolhido e amrmazene o resultado;
+# Resultado
+4- Aplique a opração de soma entre os digito 1 e digito 2 e amrmazene o resultado;
+5- Apresente na tela o resultado da soma;

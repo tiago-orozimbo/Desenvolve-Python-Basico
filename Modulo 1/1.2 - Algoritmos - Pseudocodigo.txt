@@ -1,0 +1,7 @@
+1- Início
+2- Leia X; #Entrada
+3- Z = (X-1)*10; #Processamento
+4- W = (10-X); #Processamento
+5- Y = Z + W; #Processamento
+6- Imprima Y; #Saída
+7- Fim
