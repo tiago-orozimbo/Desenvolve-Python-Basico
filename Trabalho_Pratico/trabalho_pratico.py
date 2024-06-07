@@ -1,7 +1,6 @@
 import csv
 from tabulate import tabulate
 
-
 # Estruturas de Dados
 usuarios = {}
 produtos = []
@@ -353,6 +352,7 @@ def executar_opcao_administrador(opcao):
         menu_servicos()
     else:
         print("Opção inválida!")
+
 def menu_usuarios():
     while True:
         print("\n1. Adicionar Usuário")
@@ -796,7 +796,6 @@ def executar_opcao_estagiario(opcao):
                 print("Opção inválida!")
     else:
         print("Opção inválida!")
-
 
 # Carregar dados ao iniciar o sistema
 carregar_usuarios()

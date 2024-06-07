@@ -1,0 +1,10 @@
+Introdução
+    O sofware de gerenciamento da Livraria Academica permite a interação em 4 niveis diferentes, sendo eles administradores, funcionarios, estagiarios e clientes. Os clientes possuem funções basicas como realizar busca de produtos e serviços. Já os administradores, funcionarios e estagiarios podem realizar buscas, adicionar e editar os produtos, serviços e usuarios. Além disso é possivel realizar venda dos produtos. 
+    A Livraria Academica oferece serviços em geral voltado para o publico academico e funciona como Livraria, atuando na venda de diversos livros.
+Implementação
+    Para leitura dos arquivos foi utlizada leitor = csv.DictReader, que permite a leitura dos arquivos em csv.
+    Os arquivos de registros (usuarios, produtos e serviços) estão estruturados em csv e podem ser apresentados como tabela, além disso é possivel realizar a busca de nomes ou códigos separadamente. 
+    Por fim, podemos associar as funções do sofware com o conceito CRUD, a qual os administradores, que possuem acesso total ao sistema podem criar, ler, atualizar e apagar os dados dos registros. Funcionalidades do CRUD também é empregada para os clientes, funcionarios e estagiarios, porém não em sua totalidade. 
+Conclusão
+    Acredito que esse sofware seja bem funcional, porém podem ser realizadas algumas melhorias como criar um sistema de compra para o cliente, melhorar o sistema de busca para nomes similares, isto é, o nome digitado não precisa está totalmente correto, a contratação de serviços, entre outros.
+    Em relação as escolhas, o uso da biblioteca tabulate me permitiu a criação de tabelas organizadas. Acredito que seja uma das melhoras escolhas que fiz. Além disso, a separação de todo o código por função permitiu melhor organização. 
