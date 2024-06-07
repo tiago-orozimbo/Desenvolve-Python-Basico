@@ -1,0 +1,51 @@
+codigo,nome,preco,duracao
+1,Consulta Literaria,30.0,1h
+2,Reserva de Sala de Estudo,20.0,2h
+3,Clube do Livro Mensal,50.0,1h
+4,Café Literário,15.0,1h
+5,Aula de Escrita Criativa,40.0,1h
+6,Clube de Leitura Semanal,25.0,1h
+7,Workshop de Ilustração de Livros Infantis,35.0,2h
+8,Evento de Lançamento de Livro,50.0,2h
+9,Aula de Literatura Brasileira,30.0,1h
+10,Clube de Leitura de Poesia,20.0,1h
+11,Sessão de Autógrafos,25.0,1h
+12,Curso de Redação Criativa,40.0,2h
+13,Oficina de Encadernação de Livros,35.0,2h
+14,Encontro com Autor,30.0,1h
+15,Concurso de Contos,20.0,2h
+16,Curso de Literatura Comparada,45.0,2h
+17,Palestra sobre História do Livro,30.0,1h
+18,Oficina de Pintura de Capas de Livros,35.0,2h
+19,Clube de Leitura de Ficção Científica,25.0,1h
+20,Curso de Introdução à Crítica Literária,40.0,2h
+21,Aula de Iniciação à Escrita Poética,30.0,1h
+22,Workshop de Desenvolvimento de Personagens,35.0,2h
+23,Evento de Lançamento de Coleção de Livros,50.0,2h
+24,Oficina de Escrita de Contos,35.0,2h
+25,Curso de História da Literatura Mundial,45.0,2h
+26,Sessão de Leitura em Grupo,20.0,1h
+27,Oficina de Criação de Títulos de Livros,30.0,1h
+28,Curso de Escrita de Poesia,40.0,2h
+29,Clube de Leitura de Literatura Estrangeira,25.0,1h
+30,Workshop de Ilustração de Livros de Terror,35.0,2h
+31,Evento de Lançamento de Livro Infantil,50.0,2h
+32,Aula de Literatura Portuguesa,30.0,1h
+33,Clube de Leitura de Dramaturgia,20.0,1h
+34,Sessão de Discussão sobre Literatura Latino-americana,25.0,1h
+35,Curso de Escrita de Roteiros de Filmes,45.0,2h
+36,Oficina de Tradução Literária,40.0,2h
+37,Palestra sobre Técnicas de Escrita,30.0,1h
+38,Curso de Literatura Infantil,35.0,1h
+39,Oficina de Contação de Histórias,25.0,1h
+40,Workshop de Criação de Mundos Fantásticos,50.0,2h
+41,Curso de Redação Jornalística,40.0,2h
+42,Clube de Leitura de Romance Histórico,25.0,1h
+43,Sessão de Debate sobre Livros de Filosofia,30.0,1h
+44,Aula de História da Literatura Brasileira,30.0,1h
+45,Oficina de Produção Editorial,35.0,2h
+46,Evento de Troca de Livros,15.0,2h
+47,Curso de Escrita de Biografias,40.0,2h
+48,Oficina de Edição de Textos,30.0,1h
+49,Sessão de Leituras Dramáticas,25.0,1h
+50,Palestra sobre Mercado Editorial,30.0,1h

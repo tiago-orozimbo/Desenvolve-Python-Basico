@@ -1,0 +1,113 @@
+codigo,nome,preco,quantidade
+1,O Senhor dos Aneis,43.0,4
+2,Harry Potter e a Pedra Filosofal,24.0,5
+3,Cem Anos de Solidao,21.0,62
+4,1984,69.0,120
+5,Orgulho e Preconceito,11.0,52
+6,Dom Quixote,88.0,79
+7,A Revolução dos Bichos,36.0,12
+8,O Pequeno Principe,79.0,8
+9,O Hobbit,18.0,32
+10,Crime e Castigo,80.0,18
+11,A Montanha Magica,98.0,82
+12,A Divina Comedia,74.0,46
+13,As Cronicas de Nárnia,38.0,43
+14,A Biblia Sagrada,94.0,26
+15,Moby Dick,74.0,66
+16,Ulisses,20.0,11
+17,O Apanhador no Campo de Centeio,18.0,56
+18,O Grande Gatsby,83.0,81
+19,Guerra e Paz,50.0,54
+20,Anna Karenina,63.0,23
+21,O Retrato de Dorian Gray,27.0,79
+22,O Processo,82.0,20
+23,Memorias Póstumas de Bras Cubas,13.0,10
+24,O Nome da Rosa,82.9,40
+25,O Estrangeiro,30.0,53
+26,O Conde de Monte Cristo,49.0,72
+27,A Metamorfose,18.0,61
+28,Viagem ao Centro da Terra,16.0,13
+29,O Medico e o Monstro,91.0,5
+30,Os Miseraveis,69.0,47
+32,Dom Casmurro,44.0,361
+33,Grande Sertao: Veredas,21.0,7
+36,O Pequeno Príncipe,48.0,29
+38,Memórias Postumas de Bras Cubas,59.0,12
+40,Hamlet,64.0,6
+47,O Morro dos Ventos Uivantes,65.0,44
+48,As Vinhas da Ira,33.0,17
+50,Paraiso Perdido,62.0,43
+53,Odisseia,31.0,37
+54,Ilíada,89.0,33
+57,Fausto,44.0,5
+59,Os Irmaos Karamazov,83.0,10
+60,O Corcunda de Notre-Dame,34.0,40
+62,A Odisséia de Homero,16.0,39
+63,A Canção de Roland,89.0,8
+66,O Vermelho e o Negro,85.0,33
+67,Em Busca do Tempo Perdido,11.0,26
+68,Os Três Mosqueteiros,84.0,18
+69,Viagens de Gulliver,22.0,29
+70,O Mercador de Veneza,82.0,39
+72,As Aventuras de Tom Sawyer,18.0,26
+73,A Insustentável Leveza do Ser,22.0,16
+74,Frankenstein,92.0,36
+75,O Fantasma da Ópera,42.0,16
+76,O Lobo do Mar,60.0,1
+77,Cândido ou o Otimismo,30.0,21
+78,A Morte de Ivan Ilitch,44.0,6
+80,As Viagens de Gulliver,55.0,38
+81,O Príncipe,15.0,3
+82,O Guarani,26.0,146
+83,Vinte Mil Léguas Submarinas,41.0,38
+84,Drácula,77.0,24
+85,O Homem Invisível,90.0,3
+86,A Volta ao Mundo em Oitenta Dias,78.0,37
+87,O Alienista,67.0,60
+88,O Velho e o Mar,62.0,12
+89,O Primo Basílio,77.0,54
+90,Os Lusíadas,44.0,19
+91,O Ateneu,52.0,41
+92,Esaú e Jacó,14.0,42
+93,Capitães da Areia,99.0,122
+94,Iracema,21.0,86
+95,O Cortiço,46.0,174
+96,A Cidade e as Serras,63.0,39
+97,O Auto da Compadecida,47.0,50
+98,O Alquimista,92.0,5
+100,Olhai os Lírios do Campo,77.0,46
+101,Terra Sonâmbula,92.0,19
+102,Quincas Borba,84.0,50
+103,O Auto da Barca do Inferno,49.0,23
+104,O Triste Fim de Policarpo Quaresma,59.0,14
+105,Laços de Família,80.0,28
+106,A Hora da Estrela,77.0,19
+107,Claro Enigma,74.0,27
+108,Sagarana,64.0,14
+109,Campo Geral,94.0,24
+110,O Quinze,42.0,53
+111,Vidas Secas,31.0,30
+112,Memorial de Aires,62.0,34
+114,Triste Fim de Policarpo Quaresma,41.0,101
+116,Memórias Póstumas de Brás Cubas,74.0,318
+117,Várias Histórias,40.0,5
+120,O Tronco do Ipê,33.0,35
+121,O Mulato,63.0,5
+122,Til,55.0,39
+123,O Feijão e o Sonho,55.0,39
+127,Macunaíma,35.0,43
+128,Mar Morto,40.0,84
+129,Primeiras Estórias,89.0,58
+130,São Bernardo,60.0,43
+131,A Bagaceira,29.0,2
+134,Memórias de um Sargento de Milícias,51.0,90
+138,Senhora,26.0,232
+139,Casa Grande e Senzala,97.0,65
+140,Clara dos Anjos,99.0,8
+141,A Moreninha,79.0,133
+142,Canaã,15.0,38
+149,Casa de Pensão,47.0,72
+162,A Escrava Isaura,93.0,33
+2232,Outsider,99.0,3
+1020,Baleia,45.0,2
+220,One Piece,150.0,6
